@@ -1,0 +1,53 @@
+{
+  "skill_name": "promo-code-hunter",
+  "evals": [
+    {
+      "id": 0,
+      "name": "esn-url",
+      "prompt": "https://www.esn.com/ — are there any working promo codes right now? I want to order protein",
+      "expected_output": "Table of current ESN codes incl. influencer codes with dates/status, cashback, best combo, sources"
+    },
+    {
+      "id": 1,
+      "name": "aboutyou-sneakers",
+      "prompt": "any promo code for ABOUT YOU? I'm looking at sneakers for about 120€",
+      "expected_output": "Current ABOUT YOU codes applicable to a ~120€ order incl. conditions (new customer, MOV, sale exclusions), cashback, final price estimate"
+    },
+    {
+      "id": 2,
+      "name": "holy-influencer",
+      "prompt": "I need a promo code for HOLY Energy, there seem to be tons of them from influencers",
+      "expected_output": "Influencer codes for Holy (weareholy.com) found via Instagram/TikTok/YouTube/podcast searches with dates and freshness status"
+    },
+    {
+      "id": 3,
+      "name": "snocks-new-store",
+      "prompt": "any promo codes for SNOCKS? I want to order socks and boxers",
+      "expected_output": "Current SNOCKS codes incl. creator codes, conditions, best combo"
+    },
+    {
+      "id": 4,
+      "name": "amazon-headphones",
+      "prompt": "I want to buy Sony WH-1000XM5 headphones on Amazon, any promo codes or ways to get them cheaper?",
+      "expected_output": "No fake codes; product coupon/price history/Warehouse/gift-card top-up bonus/gift-card promos; account perks checklist"
+    },
+    {
+      "id": 5,
+      "name": "hm-jacket",
+      "prompt": "any promo code for H&M? I want to order a jacket for about 80€",
+      "expected_output": "Member discount, app/first order, gift cards via Magenta/Corporate Benefits/Payback, student; account checklist"
+    },
+    {
+      "id": 6,
+      "name": "mediamarkt-coffee",
+      "prompt": "I need a promo code for MediaMarkt, I want to buy a De'Longhi Magnifica coffee machine for about 350€",
+      "expected_output": "Newsletter/app vouchers, campaigns, price match/history, gift-card promos, perks checklist"
+    },
+    {
+      "id": 7,
+      "name": "douglas-perfume-samples",
+      "prompt": "any promo codes for Douglas? I'm ordering perfume for about 90€, maybe they also give free samples?",
+      "expected_output": "Codes incl. gift-with-purchase/samples, Beauty Card, gift card promos, perks checklist"
+    }
+  ]
+}
